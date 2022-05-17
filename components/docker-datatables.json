@@ -1,0 +1,13 @@
+{
+  "errors": [
+    "example"
+  ],
+  "data": [
+    {
+      "host": "aphex",
+      "name": "musicbrainz-website-prod",
+      "started": 1650261733000,
+      "image": "metabrainz/musicbrainz-website:production"
+    }
+  ]
+}
