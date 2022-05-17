@@ -46,7 +46,7 @@ export default function Main() {
                 }
             }}
         >
-            <Row className="mb-4 p-2 mt-4">
+            <Row className="mb-4 p-2 mt-5 pt-4">
                 <Col
                     xs={12}
                     lg={4}
