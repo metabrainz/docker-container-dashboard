@@ -38,6 +38,7 @@ export default function Main() {
     return (
         <DatatableWrapper
             body={TABLE_BODY.data}
+            // @ts-ignore
             headers={STORY_HEADERS}
             paginationOptionsProps={{
                 initialState: {
